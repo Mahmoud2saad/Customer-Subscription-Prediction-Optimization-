@@ -14,8 +14,8 @@ Model Building: Implemented logistic regression to model subscription likelihood
 Model Evaluation: Evaluated model effectiveness using metrics such as accuracy, precision, recall, and F1-score. Optimized model parameters through GridSearchCV for enhanced performance.
 
 Results and Insights
-Training Accuracy: Achieved [insert training accuracy], demonstrating robust performance on training data.
-Test Accuracy: Evaluated at [insert test accuracy], highlighting model capability on unseen data.
+Training Accuracy: Achieved [0.99 %], demonstrating robust performance on training data.
+Test Accuracy: Evaluated at [0.91 %], highlighting model capability on unseen data.
 Precision and Recall: Balanced trade-offs between precision and recall, focusing on identifying true positives effectively.
 Optimal Threshold Analysis: Explored various thresholds to refine model predictions, maximizing performance metrics.
 Next Steps
