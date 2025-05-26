@@ -4,7 +4,7 @@ Overview
 This project aims to predict customer subscription to a banking product using logistic regression. By analyzing client data such as demographics, past interactions, and economic indicators, the model identifies potential subscribers, aiding in targeted marketing strategies.
 
 Dataset
-The dataset comprises client information sourced from [source_name/link]. It includes attributes like age, job type, marital status, education level, housing loan status, and contact history from past marketing campaigns.
+The dataset comprises client information sourced   from kaggle . It includes attributes like age, job type, marital status, education level, housing loan status, and contact history from past marketing campaigns.
 
 Project Structure
 Data Exploration and Preprocessing: Explored data distributions, handled missing values, and encoded categorical variables. Conducted feature scaling and outlier detection for data normalization.
